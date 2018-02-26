@@ -20,8 +20,6 @@
     "id": "83097008",
     "loginId": "1758799",
     "entityType": "1",
-    "sortOrder": "7",
-    "entityIdParent": "66133907",
     "titleTextEncoded": "Gourmia-GCM4500-Coffee-Maker-With-Built-In-Grinder",
     "category": "",
     "duration": 132,
@@ -41,14 +39,7 @@
         "quality": ""
     },
     "transcripts": "",
-    "metrics_statistics": {
-        "VV_VI": {
-            "lastUpdatedDate": "2017-05-24",
-            "engagement_score": {
-                "lastUpdatedDate": "2017-11-17"
-            }
-        }
-    },
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-11-17\"}}}",
     "tvp_profiles": [
         "18"
     ],
